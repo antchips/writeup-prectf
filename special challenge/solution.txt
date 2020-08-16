@@ -1,0 +1,41 @@
+Please don't be mad on me after reading this writeup
+
+Let's start reading description !
+Description:
+A powerful person who is always talking hacker language always with others 
+he did something online could you able to find him !
+
+
+It is Just a another fun OSINT challenge but with a special gift from my side to mkes the people motivate to do more challenges
+
+let's start hunt the flag !
+Here 'powerful' person-> username powerful speaks l33t language (language of hacker)->p0w3rful
+
+Next is doing recon !
+
+13 sites i got and i said he is hacker, so he must be a coder (Always OSINT like that)
+https://github.com/p0w3rful
+
+then a repo with the name happiest(It is itself enough)
+Check the username again 
+but it is getting difficult as 86 sites i got 
+He is talking with others (from description) (we need to think on OSINT brains)
+He is talking, hacker so finding him on social media,other learning media platform 
+
+It is in instructable (https://www.instructables.com/member/happiest/)
+Description:
+A person named heartless person ripped me please find him get my property back 
+
+So heartless person username could be find by two
+heartlessperson,heartless_person
+again start recon
+people always ripping on social media's 
+so started finding Disqus (https://disqus.com/by/heartless_person/)
+Description:
+Ping me on 'hollow' on web xmpp client ! (xabber)
+
+I searched xabber on google it's xmpp client 
+hollow@xabber.org, create account and send Hi or something !
+I'm on opposite side, by wishing everyone who contacting me first gets flag !
+
+flag:darkCTF{0s1nt_1s_th3_k3y_t0_w1n}
