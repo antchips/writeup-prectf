@@ -1,0 +1,2 @@
+Orange + chemistry = Citric Acid !
+Citrix Encoded string, it is used to store password on citrix servers !
