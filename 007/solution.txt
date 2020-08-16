@@ -1,0 +1,34 @@
+James_bond_007 is username that we are going to recon !
+That username is present on 57 sites -> Secret agent, so he is using secret places 
+Pastebin username found (https://pastebin.com/u/james_bond_007)
+
+Here is the message:
+finally you got my message 
+I stored the data into somewhere on internet to hide the info about a hacker 
+Maybe a past username will be helpful maybe 
+See that username on the next paste of mine
+
+follow this 2SELidrV !
+
+Just change url to pastebin.com/2SELidrV
+
+Hollownow-> another username just again recon !
+Username present on 8 sites -> people mostly store on archive.org 
+so went there (https://archive.org/details/@hollownow)
+
+That is encrypted by base, just put on the cyberchef magic wand will give you answer !
+
+Decrypted text:
+You found my second message too !
+And please check the person hacker 022 on social media !
+As he is trying to send message to someone please check that 
+
+There are two ways, I intentionaly put the space to make more harder
+hacker022,hacker_022 two usernames are the ways
+hacker022 is correct one
+Username present on 20 sites 
+Less social media accounts are present 
+Reddit (reddit.com/u/hacker022)
+if you check the correctly the profile there is bitly link there (https://bit.ly/2X2WQQf)
+
+then flag is darkCTF{d3d1c4t10n_1s_k3y}
